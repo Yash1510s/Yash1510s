@@ -21,23 +21,12 @@
 
 ### 💡 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <b>Final-Year Computer Science & Engineering Student</b> specializing in <b>Cybersecurity, IoT & Blockchain</b> at Xavier Institute of Engineering, Mumbai (<i>SGPA: 9.61/10</i>).</li>
-        <li>⚙️ <b>Core UX Philosophy:</b> Building high-performance systems with <i>"Web3 security and Web2 simplicity"</i>.</li>
-        <li>🤖 Currently completing a <b>Generative AI & Cloud Computing Internship</b> with <b>IBM SkillsBuild x AICTE</b>.</li>
-        <li>🛡️ Deeply experienced in adversarial machine learning, security-focused full-stack architectures, and network intrusion detection evaluation.</li>
-        <li>🚀 Actively seeking full-time and internship opportunities in <b>Artificial Intelligence, Blockchain, and Cybersecurity Engineering</b>.</li>
-        <li>🏐 Outside the terminal, you can find me playing <b>volleyball, badminton</b>, or working out at the gym.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%" />
-    </td>
-  </tr>
-</table>
+- 🎓 **Final-Year Computer Science & Engineering Student** specializing in **Cybersecurity, IoT & Blockchain** at Xavier Institute of Engineering, Mumbai (*SGPA: 9.61/10*).
+- ⚙️ **Core UX Philosophy:** Building high-performance systems with *"Web3 security and Web2 simplicity"*.
+- 🤖 Currently completing a **Generative AI & Cloud Computing Internship** with **IBM SkillsBuild x AICTE**.
+- 🛡️ Deeply experienced in adversarial machine learning, security-focused full-stack architectures, and network intrusion detection evaluation.
+- 🚀 Actively seeking full-time and internship opportunities in **Artificial Intelligence, Blockchain, and Cybersecurity Engineering**.
+- 🏐 Outside the terminal, you can find me playing **volleyball, badminton**, or working out at the gym.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -122,8 +111,15 @@
         <img src="https://img.shields.io/badge/Cybersecurity-FF0055?style=flat-square&logo=hack-the-box&logoColor=white" />
       </p>
     </td>
-  </tr>
 </table>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Yash1510s?tab=repositories">
+    <img src="https://img.shields.io/badge/See_All_Projects_%E2%86%92-Explore_My_Repositories-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="See All Projects & Repositories" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
