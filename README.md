@@ -140,22 +140,21 @@
 
 ---
 
-### 📊 GitHub Analytics & Trophies
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash1510s&theme=dark_vanilla&column=7&margin-w=15&no-frame=true&no-bg=true" alt="Yash's Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash1510s&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&ring_color=58A6FF" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1510s&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash1510s&theme=transparent" alt="GitHub Stats" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash1510s&theme=transparent" alt="Top Languages" height="175" />
 </div>
 
 <div align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash1510s&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=none" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash1510s&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Activity Graph" width="90%" />
 </div>
 
 ---
