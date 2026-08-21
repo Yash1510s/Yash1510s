@@ -1,0 +1,19 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-stats:
+    name: Generate stats images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats
+        uses: jstrieb/github-stats@master
+        with:
+          username: Yash1510s
+          exclude_langs: "HTML,CSS"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
