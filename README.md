@@ -17,12 +17,23 @@
 
 ## 💡 About Me
 
-- 🎓 Final-year **Computer Science & Engineering** student specializing in **Cybersecurity, IoT & Blockchain** at Xavier Institute of Engineering, Mumbai — *SGPA: 9.61/10*
-- ⚙️ Core philosophy: building high-performance systems with **"Web3 security, Web2 simplicity"**
-- 🤖 Currently completing a **Generative AI & Cloud Computing** internship with **IBM SkillsBuild × AICTE**
-- 🛡️ Focused on adversarial machine learning, security-first full-stack architecture, and network intrusion detection
-- 🚀 Open to full-time and internship roles in **AI, Blockchain, and Cybersecurity Engineering**
-- 🏐 Off the terminal: volleyball, badminton, and the gym
+```text
+> whoami
+Yash Vijay Singh — Final-year CSE (Cybersecurity, IoT & Blockchain)
+Xavier Institute of Engineering, Mumbai · SGPA 9.61/10
+
+> current_focus
+Generative AI & Cloud Computing Intern @ IBM SkillsBuild x AICTE
+Adversarial ML · Network Intrusion Detection · Secure Full-Stack Architecture
+
+> philosophy
+"Web3 security, Web2 simplicity"
+
+> status
+Open to full-time & internship roles — AI · Blockchain · Cybersecurity
+```
+
+🏐 Off the terminal: volleyball, badminton, and the gym.
 
 <br/>
 
@@ -119,18 +130,11 @@
 <br/>
 
 ## 📊 GitHub Stats
+<sub>Auto-generated daily by a GitHub Action and committed to this repo — no live third-party renders, so it never shows up broken.</sub>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash1510s&show_icons=true&theme=transparent&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1510s&layout=compact&theme=transparent&hide_border=true&title_color=00F2FE&text_color=ffffff" height="175" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash1510s&theme=transparent&hide_border=true&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&background=00000000" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash1510s&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=ffffff&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Yash1510s/Yash1510s/main/generated/overview.svg" width="49%" alt="GitHub Stats Overview"/>
+  <img src="https://raw.githubusercontent.com/Yash1510s/Yash1510s/main/generated/languages.svg" width="49%" alt="Top Languages"/>
 </div>
 
 <br/>
